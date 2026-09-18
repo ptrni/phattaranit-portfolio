@@ -296,12 +296,12 @@ Python | Figma
 
 
 <a 
-href="ใส่ GitHub Link"
+href="https://drive.google.com/file/d/16XtG1BKHXlCHL57qPioyiwhat1_LtIQ_/view?usp=sharing"
 target="_blank"
 >
 
 <button>
-GitHub
+view Report
 </button>
 
 </a>
