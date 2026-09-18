@@ -305,3 +305,21 @@ nav a{
 
 
 }
+@media (max-width:768px){
+
+.activity-container{
+
+    grid-template-columns:1fr;
+
+}
+
+
+.activity-card{
+
+    max-width:350px;
+
+    margin:auto;
+
+}
+
+}
