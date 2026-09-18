@@ -314,3 +314,22 @@ margin-top:15px;
 background:#A66A3F;
 
 }
+
+@media (max-width:768px){
+
+.activity-container{
+
+grid-template-columns:1fr;
+
+}
+
+
+.activity-card{
+
+width:100%;
+
+min-height:400px;
+
+}
+
+}
