@@ -84,3 +84,206 @@ html{
 scroll-behavior:smooth;
 
 }
+/* =========================
+   Responsive Design
+========================= */
+
+@media (max-width: 1024px){
+
+.hero{
+    gap:40px;
+    padding:40px;
+}
+
+
+.hero h1{
+    font-size:42px;
+}
+
+
+.project-container{
+    grid-template-columns:repeat(2,1fr);
+}
+
+
+.activity-container{
+    grid-template-columns:repeat(2,1fr);
+}
+
+
+.skill-container{
+    flex-wrap:wrap;
+}
+
+}
+
+
+
+/* Tablet + Mobile */
+
+@media (max-width:768px){
+
+body{
+    overflow-x:hidden;
+}
+
+
+/* Navbar */
+
+nav{
+    flex-direction:column;
+    gap:20px;
+    padding:20px 5%;
+}
+
+
+nav div{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:15px;
+}
+
+
+nav a{
+    margin-left:0;
+}
+
+
+
+/* Hero */
+
+.hero{
+
+    flex-direction:column;
+    text-align:center;
+    padding:40px 5%;
+}
+
+
+.hero img{
+
+    width:200px;
+    height:200px;
+
+}
+
+
+.hero h1{
+
+    font-size:32px;
+
+}
+
+
+.hero h2{
+
+    font-size:24px;
+
+}
+
+
+.hero p{
+
+    font-size:16px;
+
+}
+
+
+
+/* About */
+
+.about,
+.skills,
+.projects,
+.activities{
+
+    padding:50px 5%;
+
+}
+
+
+.about h2,
+.skills h2,
+.projects h2,
+.contact h2{
+
+    font-size:28px;
+
+}
+
+
+
+/* Skills */
+
+.skill-container{
+
+    flex-direction:column;
+    align-items:center;
+
+}
+
+
+.skill-card{
+
+    width:100%;
+    max-width:350px;
+
+}
+
+
+
+/* Projects */
+
+.project-container{
+
+    grid-template-columns:1fr;
+
+}
+
+
+.project-card{
+
+    width:100%;
+    padding:20px;
+
+}
+
+
+.project-card h3{
+
+    font-size:20px;
+
+}
+
+
+
+/* Activities */
+
+.activity-container{
+
+    grid-template-columns:1fr;
+
+}
+
+
+.activity-card{
+
+    width:100%;
+    max-width:350px;
+    margin:auto;
+
+}
+
+
+
+/* Contact */
+
+.contact-info{
+
+    flex-direction:column;
+    gap:20px;
+
+}
+
+}
