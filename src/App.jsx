@@ -296,12 +296,12 @@ Python | Figma
 
 
 <a 
-href="https://drive.google.com/file/d/16XtG1BKHXlCHL57qPioyiwhat1_LtIQ_/view?usp=sharing"
+href="https://paracetalom.github.io/smart_bin_final/?fbclid=PAVERFWAUcyQVwZG9mAmZkaWQWUOzBvhDHwhtJrrD6uLc6qxCdvizgB2V4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_NOSCdY98-co2yawwvs8ZHBfLpAwZrusG4LdPIGyTegMv5aLXqXKW6VZEl0_aem_RY9sP1eQJQ4J--h5YhORcA"
 target="_blank"
 >
 
 <button>
-view Report
+view Project
 </button>
 
 </a>
