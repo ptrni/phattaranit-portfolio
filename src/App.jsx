@@ -249,7 +249,7 @@ className="projects"
 <p>
 <b>พัฒนาด้วย:</b>
 <br/>
-Python | Machine Learning | API
+Node.js | JavaScript | Python | HTML | CSS 
 </p>
 
 
